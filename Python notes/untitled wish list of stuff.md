@@ -1,0 +1,7 @@
+ - Keycap puller x2 one for me one for grace
+ - Keyboard brush??
+ - Airpods cleaning kit
+ - a good quality portable speaker
+ - a good quality apron
+ - **think of things to get grace for her birthday (keycap puller and brush already thought of??)**
+ - 
