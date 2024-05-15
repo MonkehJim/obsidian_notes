@@ -1,0 +1,7 @@
+**TO UNINSTALL FROM PI DO /home/carlinh/Pimoroni/growhat/uninstall.sh**
+
+Following steps from the git repo (https://github.com/pimoroni/grow-python?tab=readme-ov-file)
+- Ran `git clone https://github.com/pimoroni/grow-python`
+- then `cd grow-python`
+- then `./install.sh`
+
